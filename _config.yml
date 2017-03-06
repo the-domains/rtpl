@@ -23,3 +23,7 @@ content: []
 title: RTPL
 description: ''
 github: true
+purpose:
+  - type: external
+    url: 'http://marcinbebenek.capriolo.pl/rtpl/'
+    label: 'http://marcinbebenek.capriolo.pl/rtpl/'
