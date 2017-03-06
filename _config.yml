@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.5724806126672775
+  lightness: 0.8205147681292146
+  saturation: 0.9683738949242979
+  rhythmicContrast: 0.9103335950057954
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: RTPL
+layout_spectrum: 0.3778170372825116
+typography_spectrum: 0.07151937810704112
+content: []
+title: RTPL
+description: ''
+github: true
